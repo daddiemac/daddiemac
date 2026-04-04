@@ -1,10 +1,11 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm a passionate **Machine Learning Enthusiast** and an aspiring **Web Developer**. This GitHub account is a reflection of my journey into the exciting worlds of AI, data science, and web development. Here, you'll find a collection of projects, experiments, and learning resources that showcase my growth and exploration in these fields.
+Hi there! I'm a passionate **Machine Learning Enthusiast** and an aspiring **Backend Engineer (jar and py)**. <br><br>
+This GitHub account is a reflection of my journey into the exciting worlds of AI, data science, and web development. Here, you'll find a collection of projects, experiments, and learning resources that showcase my growth and exploration in these fields.
 
 ## About Me 🧑‍💻
 
-- 🌱 I’m currently learning and experimenting with **Machine Learning**, **Deep Learning**, and **Web Development**.
+- 🌱 I’m currently learning and experimenting with **Machine Learning**, **Deep Learning**, and **Backend Development**.
 - 💻 I enjoy building end-to-end projects that combine data science with web applications.
 - 📚 Constantly exploring new technologies, frameworks, and tools to expand my skill set.
 - 🎯 Goal: To contribute to open-source projects and build impactful solutions that solve real-world problems.
@@ -21,7 +22,7 @@ Hi there! I'm a passionate **Machine Learning Enthusiast** and an aspiring **Web
 
 ### Web Development
 - **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**: Node.js, Express.js, Django
+- **Backend**:  Java (Spring Boot), Python (Django), Node.js
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Tools**: Git, Docker, REST APIs
 
@@ -79,10 +80,10 @@ Here are some resources I've found helpful in my journey:
 
 I'm always open to collaborating on interesting projects or discussing ideas. Feel free to reach out to me:
 
-- **Email**: [Your Email Address]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter**: [Your Twitter Handle]
-- **Portfolio Website**: [Your Portfolio URL]
+- **Email**: [macaulayfrekes@icloud.com]
+- **LinkedIn**: [https://www.linkedin.com/in/ndifreke-macaulay-88179a199]
+- **Twitter**: [@daddiemacaulay]
+- **Portfolio Website**: [NYA 😄]
 
 ---
 
