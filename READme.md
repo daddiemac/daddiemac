@@ -1,6 +1,6 @@
-# Welcome to My GitHub Profile! 👋
+# Hola! 
 
-Hi there! I'm a passionate **Machine Learning Enthusiast** and an aspiring **Backend Engineer (jar and py)**. <br><br>
+Hi there! I'm a passionate **Machine Learning Enthusiast** and a **Netcentric Software Engineer**. <br><br>
 This GitHub account is a reflection of my journey into the exciting worlds of AI, data science, and web development. Here, you'll find a collection of projects, experiments, and learning resources that showcase my growth and exploration in these fields.
 
 ## About Me 🧑‍💻
@@ -15,14 +15,14 @@ This GitHub account is a reflection of my journey into the exciting worlds of AI
 ## Skills 🛠️
 
 ### Machine Learning & Data Science
-- **Programming Languages**: Python, R
+- **Programming Languages**: JavaScript, Python, R
 - **Libraries & Frameworks**: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Keras
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
-- **Model Deployment**: Flask, FastAPI, Streamlit
+
 
 ### Web Development
-- **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**:  Java (Spring Boot), Python (Django), Node.js
+- **Frontend**: Livewire, HTML, CSS, JavaScript, React.js
+- **Backend**:  php(Laravel), Java (Spring Boot), Python (Django), Node.js
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Tools**: Git, Docker, REST APIs
 
@@ -43,20 +43,20 @@ Here are some of the projects I've worked on:
 
 3. **Predictive Analytics for Sales Data**  
    - Created a machine learning model to predict future sales based on historical data.
-   - [Link to Repository](#)
+
 
 ### Web Development Projects
 1. **E-Commerce Website**  
    - Built a full-stack e-commerce platform using React.js for the frontend and Node.js for the backend.
-   - [Link to Repository](#)
+
 
 2. **Portfolio Website**  
    - Designed and developed a personal portfolio website to showcase my projects and skills.
-   - [Link to Repository](#)
+
 
 3. **Blog Application**  
    - Created a blog application using Django, allowing users to create, read, update, and delete posts.
-   - [Link to Repository](#)
+
 
 ---
 
